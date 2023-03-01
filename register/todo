@@ -1,0 +1,9 @@
+X - Criar serviço de disparar email
+
+X - Enviar chamada pra outro serviço de disparar email
+
+X - Fazer migration
+    X - Arrumar duplicidade de campos
+
+
+# docker run --name database -p 5432:5432 -e POSTGRES_USER=user -e POSTGRES_PASSWORD=password -e POSTGRES_DB=register -d postgres
